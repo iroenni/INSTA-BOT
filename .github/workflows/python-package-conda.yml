@@ -237,7 +237,7 @@ jobs:
     - name: Crear archivo de documentación
       run: |
         cat > DEPLOYMENT_REPORT.md << 'EOF'
-        # 📋 Reporte de Despliegue - Modo Demo
+        # 📋 Reprorte de Despliegue - Modo Demo
 
         ## ✅ Estado: DESPLIEGUE EXITOSO
 
