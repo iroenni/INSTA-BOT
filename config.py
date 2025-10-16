@@ -1,9 +1,9 @@
 import os
 
 # Configuración de Telegram
-API_ID = tu_api_id  # Obtener de https://my.telegram.org
-API_HASH = "tu_api_hash"
-BOT_TOKEN = "tu_bot_token"
+API_ID = 14681595  # Obtener de https://my.telegram.org
+API_HASH = "a86730aab5c59953c424abb4396d32d5"
+BOT_TOKEN = "8138537409:AAHGgzcTdoKEPQlMhbfjAVJuWkX8-M7s_wo"
 
 # Configuración de Instagram
 INSTAGRAM_USERNAME = "tu_usuario_instagram"
